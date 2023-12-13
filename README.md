@@ -12,4 +12,8 @@ The Tensorflow NST tutorial: https://www.tensorflow.org/tutorials/generative/sty
 
 
 
+
+
+
+
 Andrew ng's explanation and formalism of NST.
