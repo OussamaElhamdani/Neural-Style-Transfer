@@ -8,5 +8,8 @@ Delve into the mathematical principles that empower the neural style transfer pr
 
 # Resources: 
 This notebook is inspired by: 
-The Tensorflow NST tutorial: https://www.tensorflow.org/tutorials/generative/style_transfer
+The Tensorflow NST tutorial: https://www.tensorflow.org/tutorials/generative/style_transfer                                                                                                             
+
+
+
 Andrew ng's explanation and formalism of NST.
