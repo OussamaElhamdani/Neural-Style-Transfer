@@ -6,7 +6,7 @@ Explore the step-by-step construction of the neural style transfer model, from e
 ### Theory and Mathematics:
 Delve into the mathematical principles that empower the neural style transfer process& gain an an intuition of the mechanics driving the creation of stylized images.
 
-# Resources: 
+## Resources: 
 This notebook is inspired by: 
 
 The Tensorflow NST tutorial: https://www.tensorflow.org/tutorials/generative/style_transfer 
