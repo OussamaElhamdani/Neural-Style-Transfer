@@ -8,7 +8,7 @@ Explore the step-by-step construction of the neural style transfer model, from e
 ### Theory and Mathematics:
 Delve into the mathematical principles that empower the neural style transfer process& gain an an intuition of the mechanics driving the creation of stylized images.
 
-![image](https://github.com/OussamaElhamdani/Neural-Style-Transfer/assets/38879260/17e69c1c-8b55-40ca-ba6e-ba5bb68458ee)
+![Alt text](image.png)
 
 ## Resources: 
 This notebook is inspired by: 
