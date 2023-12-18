@@ -4,9 +4,9 @@ Welcome to the Neural Style Transfer notebook! This resource provides a comprehe
 
 ## Content Highlights
 ### Backbone of Neural Style Transfer:
-Explore the step-by-step construction of the neural style transfer model, from elementary functions to the formulation of the loss function.
+Explore the step-by-step construction of the neural style transfer model, from elementary functions to the formulation of the cost function.
 ### Theory and Mathematics:
-Delve into the mathematical principles that empower the neural style transfer process& gain an an intuition of the mechanics driving the creation of stylized images.
+Delve into the mathematical principles that empower the neural style transfer process & gain an an intuition of the mechanics driving the creation of stylized images.
 
 ![image](https://github.com/OussamaElhamdani/Neural-Style-Transfer/assets/38879260/5dabdeb3-cfe0-43de-918e-9ab7252f5a07)
 
